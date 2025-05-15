@@ -1,4 +1,4 @@
-# 🧠 Core Skill Requirements
+`# 🧠 Core Skill Requirements
 
 ## 📌 TypeScript
 
